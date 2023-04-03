@@ -1,0 +1,85 @@
+@font-face{
+    font-family: miFuente;
+    src: url('fonts/BillionDreams_PERSONAL.ttf') format('truetype');
+}
+
+#exampleModalLabel{
+    color: red;
+}
+
+.carritoCompra{
+    background-color: rgb(153, 204, 51);
+}
+
+.container h1{
+    text-align: center;
+    font-family: miFuente;
+    font-size: 63px;
+}
+
+.container-fluid{
+    background-color: rgb(255, 255, 255);
+}
+
+body{
+    background-color: white;
+}
+
+.card-body{
+    text-align: center;
+}
+
+#logoPagina{
+    height: 100px;
+    width: 200px;
+}
+
+.col-md-4{
+    margin: 10px;
+    column-gap: 10px;
+}
+
+.card-body{
+    background-color: white;
+    border-color: white;
+}
+
+.container img{
+    width: 100%;
+    height: 100%;
+    height: 600px;
+    width: 400px;
+}
+
+#fotoCarrito{
+    height: 250px;
+    width: 250px;
+}
+
+#botonQl{
+    background-color: white;
+}
+h3{
+    font-family: miFuente;
+}
+.card{
+    border-color:white;    
+}
+.cardflo img{
+    height: 450px;
+    width: 350px;
+    width: 100%;
+
+}
+.cardbon{
+    height: 100%;
+}
+.label{
+    font-family: miFuente;
+}
+.carousel-inner img{
+
+    width: 100%;
+    height: 700px;
+
+}
